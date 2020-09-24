@@ -101,6 +101,11 @@
 			]
 		},
 		{
+			"selector": ".menu-item-galleries span",
+			"text": "叮咚！前方有mc酱出没！"
+		},
+
+		{
 			"selector": ".menu-item-search a",
 			"text": ["找不到想看的内容？搜索看看吧！", "在找什么东西呢，需要帮忙吗？"]
 		},
