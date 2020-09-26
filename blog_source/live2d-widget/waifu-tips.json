@@ -105,7 +105,7 @@
 			"text": "叮咚！前方有mc酱出没！"
 		},
 		{
-			"selector": ".xm",
+			"selector": ".xm img",
 			"text": "麻烦关一下灯谢谢！"
 		},
 
