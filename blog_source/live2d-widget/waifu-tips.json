@@ -104,6 +104,10 @@
 			"selector": ".menu-item-galleries span",
 			"text": "叮咚！前方有mc酱出没！"
 		},
+		{
+			"selector": ".xm",
+			"text": "麻烦关一下灯谢谢！"
+		},
 
 		{
 			"selector": ".menu-item-search a",
