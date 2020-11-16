@@ -138,57 +138,6 @@ code {
 	border-radius: 2px;
 }
 
-.code_copy {
-	position: absolute;
-	top: 0.7rem;
-	right: 25px;
-	z-index: 1;
-	filter: invert(50%);
-	cursor: pointer;
-}
-
-.codecopy_notice {
-	position: absolute;
-	top: 0.7rem;
-	right: 6px;
-	z-index: 1;
-	filter: invert(50%);
-	opacity: 0;
-}
-
-.code_lang {
-	position: absolute;
-	top: 1.2rem;
-	right: 46px;
-	line-height: 0;
-	font-weight: bold;
-	font-family: normal;
-	z-index: 1;
-	filter: invert(50%);
-	cursor: pointer;
-}
-
-.code-expand {
-	position: absolute;
-	top: 4px;
-	right: 0px;
-	filter: invert(50%);
-	padding: 7px;
-	z-index: 999 !important;
-	cursor: pointer;
-	transition: all 0.3s;
-	transform: rotate(0deg);
-}
-
-.code-closed .code-expand {
-	transform: rotate(-180deg) !important;
-	transition: all 0.3s;
-}
-
-.code-closed pre::before {
-	height: 0px;
-}
-
 pre code {
 	padding: 0;
 	color: #e8eaf6;
